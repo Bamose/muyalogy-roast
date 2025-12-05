@@ -1,6 +1,5 @@
 import { generateText } from "ai";
 import { createOpenRouter } from "@openrouter/ai-sdk-provider";
-import type { UserRecord } from "./storage";
 
 const openrouter = createOpenRouter({
   apiKey: process.env.OPENROUTER_API_KEY,
@@ -24,7 +23,7 @@ Group profiles:
 
 Return ONLY the roast text.`;
 
-export type RoastTarget = UserRecord & { roleHint?: string };
+export type RoastTarget = { username?: string; firstName?: string } & { roleHint?: string };
 
 // Uses OpenRouter format: 'provider/model'
 // Examples: 'openai/gpt-4o-mini', 'anthropic/claude-3.5-sonnet', 'google/gemini-flash-1.5'
