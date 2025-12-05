@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "2.0.77",
-    "@openrouter/ai-sdk-provider": "^0.5.0",
+    "@openrouter/ai-sdk-provider": "1.4.0",
 
     "ai": "^5.0.106",
     "next": "^16.0.0",
