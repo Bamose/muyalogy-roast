@@ -133,6 +133,14 @@ NEW DEVELOPERS:
   drinks protein shake during standup,
   emotional muscles more than physical.
 
+- @amt7307:
+  Video editor who lives in the office—rent is free if you sleep under the desk.
+  Claims "9 rounds" of stamina—we don't know if it's a lie or a legend (probably a lie).
+  Dirty minded: his mind is in the gutter more than a rainy day in Addis.
+  Has beef with @MillaGoss—civil war of the office dwellers.
+  "9 rounds"? Bro probably renders a preview and calls it a day.
+  He edits videos but can't edit his questionable life choices.
+
 LIMITS:
 - NO physical appearance roasting.
 - NO politics/ethnicity/religion.
@@ -184,6 +192,7 @@ function fallbackRoast(
     a_bella23: `${handle} is composing a 2am manifesto about fonts and fate instead of replying${triggered}.`,
     w_eyob: `${handle} went silent; probably waiting to be assigned another "learning opportunity"${triggered}.`,
     booom341: `${handle} disappeared—probably filming a TikTok about disappearing${triggered}.`,
+    amt7307: `${handle} is probably rendering his "9 rounds" of lies in 4K${triggered}.`,
   };
 
   const key = target.username?.replace(/^@/, "").toLowerCase();
