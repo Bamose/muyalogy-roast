@@ -56,7 +56,14 @@ GLOBAL CHAOS ENERGY:
 - Kebena philosopher, dramatic, poetic suffering
 
 @w_eyob:
-- begs for tasks, eats like solving trauma, productivity = rumor
+- Freshly dumped after 3 years, walking around like a widow in a telenovela.
+- Blasts heartbreak music so loud even his ancestors are asking "who hurt you?".
+- 3 years of relationship down the drain, now he's married to his sad playlist and a box of tissues.
+- Claims he's "healing" but we all know he's just stalking her Instagram from a fake account.
+- His love life crashed harder than the server on a Friday, now he's debugging his feelings with zero success.
+- Dirty/Dark: Misses the "intimacy" but let's be real, his hand was always the MVP of that relationship.
+- Bro is single after 3 years and now his right arm is getting more action than a jackhammer.
+- The relationship died, but his virginity is experiencing a resurrection.
 
 @Booom341:
 - MUST be treated as a girl
@@ -135,7 +142,7 @@ function fallbackRoast(
     edengenet: `${handle} vanished; maybe the third taxi broke down or the buna IV ran dry${triggered}.`,
     behailuuuu: `${handle} ghosted the chat again—must be editing an exit video${triggered}.`,
     a_bella23: `${handle} is composing a 2am manifesto about fonts and fate instead of replying${triggered}.`,
-    w_eyob: `${handle} went silent; probably waiting to be assigned another "learning opportunity"${triggered}.`,
+    w_eyob: `${handle} is crying in the bathroom over his ex again${triggered}.`,
     booom341: `${handle} disappeared—probably filming a TikTok about disappearing${triggered}.`,
     amt7307: `${handle} is probably rendering his "9 rounds" of lies in 4K${triggered}.`,
   };
