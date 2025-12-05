@@ -63,10 +63,10 @@ class Storage {
 
   async listUsers(chatId: number | string): Promise<UserRecord[]> {
     if (this.redis) {
-      const ids = await this.redis.smembers<string>(this.chatSetKey(chatId));
+      const ids = await this.redis.smembers(this.chatSetKey(chatId));
       if (!ids.length) return [];
       const keys = ids.map((id) => this.userKey(chatId, id));
-      const stored = await this.redis.mget<string>(...keys);
+      const stored = await this.redis.mget<string[]>(...keys);
       return stored
         .map((json) => (json ? (JSON.parse(json) as UserRecord) : null))
         .filter((u): u is UserRecord => Boolean(u));
