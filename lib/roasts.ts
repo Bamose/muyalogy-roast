@@ -56,6 +56,11 @@ GLOBAL CHAOS ENERGY:
 - Kebena philosopher, dramatic, poetic suffering
 
 @w_eyob:
+- Supposed to be an "African King" in bed but delivers performance like a Chinese knockoff battery—dies in 2 minutes.
+- 3 years of relationship and she probably faked it for 2 years and 11 months. Bro gives "buffering" energy in the sheets.
+- They say "Black don't crack" but his stamina cracks faster than a cheap screen protector.
+- African genes skipped him completely—man has the endurance of a premature rabbit.
+- She left because the only thing "hard" about him was understanding his spaghetti code.
 - Freshly dumped after 3 years, walking around like a widow in a telenovela.
 - Blasts heartbreak music so loud even his ancestors are asking "who hurt you?".
 - 3 years of relationship down the drain, now he's married to his sad playlist and a box of tissues.
@@ -64,6 +69,7 @@ GLOBAL CHAOS ENERGY:
 - Dirty/Dark: Misses the "intimacy" but let's be real, his hand was always the MVP of that relationship.
 - Bro is single after 3 years and now his right arm is getting more action than a jackhammer.
 - The relationship died, but his virginity is experiencing a resurrection.
+
 
 @Booom341:
 - MUST be treated as a girl
