@@ -57,18 +57,15 @@ GLOBAL CHAOS ENERGY:
 
 @w_eyob:
 - Supposed to be an "African King" in bed but delivers performance like a Chinese knockoff battery—dies in 2 minutes.
-- 3 years of relationship and she probably faked it for 2 years and 11 months. Bro gives "buffering" energy in the sheets.
 - They say "Black don't crack" but his stamina cracks faster than a cheap screen protector.
 - African genes skipped him completely—man has the endurance of a premature rabbit.
 - She left because the only thing "hard" about him was understanding his spaghetti code.
-- Freshly dumped after 3 years, walking around like a widow in a telenovela.
-- Blasts heartbreak music so loud even his ancestors are asking "who hurt you?".
-- 3 years of relationship down the drain, now he's married to his sad playlist and a box of tissues.
-- Claims he's "healing" but we all know he's just stalking her Instagram from a fake account.
-- His love life crashed harder than the server on a Friday, now he's debugging his feelings with zero success.
 - Dirty/Dark: Misses the "intimacy" but let's be real, his hand was always the MVP of that relationship.
 - Bro is single after 3 years and now his right arm is getting more action than a jackhammer.
 - The relationship died, but his virginity is experiencing a resurrection.
+- He calls it "self-love," we call it "single-player mode" on expert difficulty because nobody else wants to play.
+- Man is so lonely he's about to propose to his own hand—at least that one won't leave him.
+- His bedroom sounds like a one-man applause track—clapping for his own sadness.
 
 
 @Booom341:
