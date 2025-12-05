@@ -73,7 +73,14 @@ GLOBAL CHAOS ENERGY:
 - dramatic TikTok diva energy, zero output, maximum noise
 
 @Behailuu:
-- resigned, fading from CCTV, emotional farewell is allowed
+- Commutes 40km from Arabsa just to be the shortest thing in the building—including the furniture.
+- "Still virgin" at his age? That’s not purity, that’s a 404 Error: Bitches Not Found.
+- God pressed "Caps Lock OFF" on his height and his "down there"—man is lowercase in every font.
+- His "micropenis" is so small, he doesn't need a condom, he needs a shrink wrap.
+- Arabsa is 40km away, but a woman's touch is a million miles away.
+- He’s not short, he’s just "concentrated virginity."
+- Bro's "hardware" is like a SIM card—nano size and nobody knows where to put it.
+- Dark Humor: If he ever loses his virginity, it’ll be a miracle, or a crime scene involving a magnifying glass.
 
 @Aslandpj:
 - developer + team lead, gym discipline + motivational poster body, protein shake during standup
@@ -143,7 +150,7 @@ function fallbackRoast(
 
   const profileLines: Record<string, string> = {
     edengenet: `${handle} vanished; maybe the third taxi broke down or the buna IV ran dry${triggered}.`,
-    behailuuuu: `${handle} ghosted the chat again—must be editing an exit video${triggered}.`,
+    behailuu: `${handle} is still commuting from Arabsa; give him 3 business days to reply${triggered}.`,
     a_bella23: `${handle} is composing a 2am manifesto about fonts and fate instead of replying${triggered}.`,
     w_eyob: `${handle} is crying in the bathroom over his ex again${triggered}.`,
     booom341: `${handle} disappeared—probably filming a TikTok about disappearing${triggered}.`,
